@@ -1,0 +1,20 @@
+body {
+	color: gray;
+	padding-top: 20px;
+	padding-left: 40px;
+	line-height: 1.5;
+}
+ h1 {
+ color: black;
+ font-weight: bolder;
+}
+em {
+	color: black;
+	font-weight: bold;
+}
+blockquote {
+	font-style: italic;
+}
+blockquote em{
+	font-style: normal;
+}
